@@ -1,6 +1,7 @@
 # Pokédex
 
-Ejemplo con AngularJS, desarrollado conjuntamente en el curso de Frontend Profesional. mejorando.la
+Ejemplo con AngularJS.
+
 Contiene la información de los 151 pokemons, Características, Estadísticas y Evoluciones.
 
 Ejecutar Aplicación
